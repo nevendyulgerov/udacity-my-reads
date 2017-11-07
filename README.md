@@ -9,7 +9,7 @@ A bookshelf app that allows user to select and categorize books as you have read
 1. [Download](https://github.com/nevendyulgerov/udacity-my-reads/archive/master.zip) or [Clone](https://github.com/nevendyulgerov/udacity-my-reads.git) the Repository.
 2. Run `npm install` to install the project dependencies.
 3. Run the app using `npm start`.
-4. App can be seen at: `localhost:3000`.
+4. App becomes available at: `localhost:3000`.
 
 ## Backend Server
 
