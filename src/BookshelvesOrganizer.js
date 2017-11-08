@@ -4,8 +4,6 @@ import Bookshelf from './Bookshelf';
 import * as utils from './utils';
 
 class BookshelvesOrganizer extends React.Component {
-  // TODO: Add type checking
-
   render = () => (
     <div className="list-books">
       <div className="list-books-title">

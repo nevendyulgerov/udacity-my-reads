@@ -5,8 +5,6 @@ import {search} from './BooksAPI';
 import {bufferedEvent, isArray} from './utils';
 
 class Search extends React.Component {
-  // TODO: Add type checking
-
   state = {
     query: '',
     searchableBooks: []

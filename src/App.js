@@ -7,8 +7,6 @@ import './App.css';
 
 
 class BooksApp extends React.Component {
-  // TODO: Add type checking
-
   state = {
     books: []
   };

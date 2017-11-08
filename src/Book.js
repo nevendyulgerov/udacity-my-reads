@@ -2,8 +2,6 @@ import React from 'react';
 import * as utils from './utils';
 
 class Book extends React.Component {
-  // TODO: Add type checking
-
   render = () => (
     <div className="book">
       <div className="book-top">

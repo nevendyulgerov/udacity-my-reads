@@ -2,8 +2,6 @@ import React from 'react';
 import Book from './Book';
 
 class Bookshelf extends React.Component {
-  // TODO: Add type checking
-
   render = () => (
     <div className="bookshelf">
       <h2 className="bookshelf-title">{this.props.title}</h2>
