@@ -1,5 +1,5 @@
 # My-Reads
-A bookshelf app that allows user to select and categorize books as you have read, are currently reading, or want to read.
+A bookshelf app that allows user to select and categorize books you have read, are currently reading, or want to read.
 
 ## Requirements
 * npm
